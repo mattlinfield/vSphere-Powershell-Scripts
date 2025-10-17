@@ -17,7 +17,7 @@
     The vSphere host to copy switches / portgroups to
 
     .LINK
-    Online version: http://www.fabrikam.com/add-extension.html
+    https://github.com/mattlinfield/vSphere-Powershell-Scripts
 
 #>
 
