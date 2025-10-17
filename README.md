@@ -1,0 +1,2 @@
+# vSphere Powershell Helper Scripts
+Just a collection of Powershell scripts to help automate some functions in vSphere - particularly for those of us that don't some of the nice features of vSphere Enterprise!
